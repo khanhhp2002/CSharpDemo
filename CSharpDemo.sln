@@ -5,7 +5,7 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpDemo", "CSharpDemo.csproj", "{1756993F-8295-4534-9480-58C078BC73C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS50", "..\CS50\CS50.csproj", "{8F97098F-515F-4571-ACCA-BFF82766E9E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS50", "..\CSharpDemo\CS50\CS50.csproj", "{8F97098F-515F-4571-ACCA-BFF82766E9E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
