@@ -1,0 +1,29 @@
+# Binary files
+*.exe
+*.dll
+*.pdb
+*.obj
+
+# Visual Studio specific files
+*.suo
+*.sln
+*.user
+*.vspscc
+*.vssscc
+*.csproj
+.vs/
+
+# Build files
+bin/
+obj/
+
+# Test files
+**/bin/TestResults/
+**/obj/TestResults/
+
+# Documentation files
+**/bin/Documentation/
+**/obj/Documentation/
+
+# Local Environment
+.env
